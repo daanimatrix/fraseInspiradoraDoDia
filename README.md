@@ -17,7 +17,7 @@ Instruções para Execução:
 Para abrir o projeto no Android Studio:
 
 Clone este repositório.
-git clone https://github.com/seuusuario/seuprojeto.git
+git clone https://github.com/daanimatrix/fraseInspiradoraDoDia
 
 Abra o Android Studio.
 
